@@ -1,0 +1,114 @@
+@media (max-width: 960px) {
+ 
+  .container {
+    width: 900px;
+  }
+}
+@media (max-width: 720px) {
+  
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+
+  .container {
+    width: 300px;
+  }
+}
+@media (max-width: 960px) {
+  
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+ 
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+
+  .container {
+    width: 300px;
+  }
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+	}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
+	border-radius: 4Px;
+	margin: 20px 0px;
+	text-align: center;
+	}
+.photoid {
+	border-radius: 50%;
+}
+
+.button {
+background-color: #FFE381;
+color: black;
+padding: 15px 20px;
+border-radius: 4px;
+	}
+.button:hover {
+	background-color: #CEC288;
+	color: black;
+}
+.card-white:hover {
+background-color: #A5C4D4;
+}
+
+a {
+font-size: 25px;
+	}
+h2, h3, h4, h5 {
+font-size: 20px;
+	}
+p {
+font-size: 15px;
+	}
+
+.text {
+color: black;
+margin: 40px;
+}
+
+.lien {
+color: black;
+margin: 40px;
+}
+
+
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+
+.list-inline {
+list-style: none;
+padding-left: 0px;
+	}
+
+.list-inline i:hover{
+color: black;
+	}
+
+.list-inline i{
+font-size: 60px;
+	}
+
+
+
+
+
+
+
+
